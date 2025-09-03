@@ -93,6 +93,41 @@ This workflow uses a combination of **state-of-the-art AI APIs**:
 
 ---
 
+⚡ **Deploy in minutes → Import JSON → Add API keys → Render cinematic videos directly in Slack.**  
+From a simple text prompt → to story → to scenes → to video → all fully automated.  
+
+---
+
+## 🚀 Quick Start
+
+1. **Download the workflow file**  
+   - Grab the `StoryForge AI V2.09.25.json` from this repo.
+
+2. **Import into your n8n**  
+   - Open n8n → *Import Workflow* → select the JSON file.  
+   - Save & activate.  
+
+3. **Add your API keys** (required for automation):  
+   - **Replicate API Key** → for images & music  
+   - **RunwayML API Key** → for motion video  
+   - **ElevenLabs API Key** → for TTS voice  
+   - **Dropbox API Key** → for storage & links  
+   - **Creatomate API Key** → for video rendering  
+   - **Slack Bot Token** → for triggering via `/render`  
+
+4. **Setup Slack**  
+   - Install the bot in your workspace  
+   - Create a command `/render` → point it to your n8n webhook  
+
+5. **Run it!**  
+   - Go to Slack → type:  
+     ```
+     /render A wolf pack guarding a mystical forest, with dark magic and fire.
+     ```  
+   - Wait a few minutes → receive a cinematic video link back in Slack 🎬  
+
+---
+
 ## 💰 Cost Model
 
 - **Prototype/Testing**: Free tiers are enough for setup and short demos  
