@@ -10,9 +10,10 @@
 [![Website](https://img.shields.io/badge/Visit-tuguidragos.com-0A66C2?logo=google-chrome&logoColor=white)](https://tuguidragos.com) &nbsp;
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/tuguidragos)
 
+# n8n Automated Storytelling
+
 </div>
 
-# n8n Automated Storytelling 🎬🐺  
 **AI Video Generator | Automated Storytelling Pipeline | Cinematic Content Creation**
 
 This repository contains a **fully automated storytelling pipeline built in n8n**, designed to transform **a simple text idea into a cinematic AI-generated video**.  
