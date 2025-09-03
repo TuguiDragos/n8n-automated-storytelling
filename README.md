@@ -19,7 +19,7 @@
 This repository contains a **fully automated storytelling pipeline built in n8n**, designed to transform **a simple text idea into a cinematic AI-generated video**.  
 It orchestrates multiple AI services into a single workflow: **story generation, image creation, voice synthesis, soundtrack composition, storage management, and final video rendering**.  
 
-This is not just automation – it’s a **modular creative production line powered by AI**.  
+This is not just automation, it’s a **modular creative production line powered by AI**.  
 
 ---
 
